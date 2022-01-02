@@ -6,16 +6,30 @@
     1. [Programs](#ch01_programs)
 2. [Chapter 02](#ch02_assessing-project-needs)
     1. [Exploring the Project Knowledge Areas](#ch02_exploring-the-project-knowledge-areas)
-    1. [Project Integration Management](#ch02_proj-integration-mgmt) 
-    2. [Benefits Management Plan](#ch02_benefits-management-plan)
-    3. [Enterprise Environmental Factors](#ch02_enterprise-environmental-factors)
+    1. [Project Integration Management](#ch02_proj-integration-mgmt)
+    1. [Project Scope Management](#ch02_proj-scope-mgmt)
+    1. [Project Schedule Management](#ch02_project-schedule-mgmt)
+    1. [Project Cost Management](#ch02_project-cost-mgmt)
+    1. [Project Quality Management](#ch02_project-quality-mgmt)
+    1. [Project Resource Management](#ch02_project-resource-mgmt)
+    1. [Project Communications Management](#ch02_project-communications-mgmt)
+    1. [Project Risk Management](#ch02_project-risk-mgmt)
+    1. [Benefit-Cost Ratio Analysis (BCR)](#ch02_bcr)
+    1. [Scoring Models](#ch02_scoring-models)
+    1. [Cash Flow Analysis](#ch02_cash-flow-analysis)
+    1. [Payback Period (PBP)](#ch02_pbp)
+    1. [Discounted Cash Flow](ch02_discounted-cash-flow)
+    1. [Net Present Value (NPV)](#ch02_npv)
+    1. [Intentional Rate of Return (IRR)](#ch02_irr)
+    1. [Assessing Project Needs and Creating the Project Charter](#ch02_assessing-project-needs)
+    1. [Business Case](#ch02_business-case)
+    1. [Benefits Management Plan](#ch02_benefits-management-plan)
+    1. [Enterprise Environmental Factors (EFF)](#ch02_enterprise-environmental-factors)
+    1. [Organizational Process Assets (OPA)](#ch02_opa)
 
-<a name="ch01_building-the-foundation"></a>
-## Chapter 01: Building the Foundation
+## Chapter 01: Building the Foundation <a name="ch01_building-the-foundation"></a>
 
-<a name="ch01_establishing-a-baseline"></a>
-
-### Establishing a baseline
+### Establishing a baseline <a name="ch01_establishing-a-baseline"></a>
 Definition of a project:
 * Temporary in nature.
 * Definitive start and end dates.
@@ -24,8 +38,7 @@ Definition of a project:
 
 Operations are different from a project since operations are ongoing and repetitive in nature.
 
-<a name="ch01_programs"></a>
-### Programs
+### Programs <a name="ch01_programs"></a>
 
 * **Programs** are a group of related projects, subsidiary programs, and other activities.
     * These are grouped together using similar management techniques 
@@ -41,7 +54,6 @@ Operations are different from a project since operations are ongoing and repetit
 
 
 ## Chapter 02: Assessing Project Needs <a name="ch02_assessing-project-needs"></a>
-
 
 ### Exploring the Project Knowledge Areas <a name="ch02_exploring-the-project-knowledge-areas"></a>
 
@@ -97,8 +109,7 @@ Operations are different from a project since operations are ongoing and repetit
     <p align="center">Project Scope Management </p> 
 </p>
 
-
-### Project Schedule Management
+### Project Schedule Management <a name="ch02_proj-schedule-mgmt"></a>
 * Knowledge areas (Contains **six processes**):
     * Plan schedule management (Planning)
     * Define activities (Planning)
@@ -114,7 +125,7 @@ Operations are different from a project since operations are ongoing and repetit
     <p align="center">Project Schedule Management </p> 
 </p>
 
-### Project Cost Management
+### Project Cost Management <a name="ch02_proj-cost-mgmt"></a>
 * Focuses on budgets and project costs.
 * This is where the following occur:
     * Cost estimates
@@ -127,8 +138,7 @@ Operations are different from a project since operations are ongoing and repetit
         * Focused on project performance optimization.
         * Mainly concerned with eliminating unnecessary costs.
 
-
-### Project Quality Management
+### Project Quality Management <a name="ch02_proj-quality-mgmt"></a>
 * Knowledge areas (contains **three** processes):
     * Plan quality management (Planning)
     * Manage quality (Executing)
@@ -144,7 +154,7 @@ Operations are different from a project since operations are ongoing and repetit
     <p align="center">Project Quality Management </p> 
 </p>
 
-### Project Resource Management
+### Project Resource Management <a name="ch02_proj-resource-mgmt"></a>
 * Knowledge areas (contains **six** processes):
     * Plan resource management
     * Estimate activity resources
@@ -153,7 +163,7 @@ Operations are different from a project since operations are ongoing and repetit
     * Manage team
     * Control resources
 
-### Project Communication Management
+### Project Communication Management <a name="ch02_proj-communications-mgmt"></a>
 * Includes:
     * Plans
     * Risk assessments
@@ -164,7 +174,7 @@ Operations are different from a project since operations are ongoing and repetit
     * Manage communications
     * Monitor communications
 
-### Project Risk Management
+### Project Risk Management <a name="ch02_proj-risk-mgmt"></a>
 * Knowledge areas (contains **seven** processes):
     * Plan risk management (Planning)
     * Identify risks (Planning)
@@ -183,28 +193,28 @@ Operations are different from a project since operations are ongoing and repetit
     <p align="center">Project Risk Management </p> 
 </p>
 
-### Benefit-Cost Ratio Analysis (BCR)
+### Benefit-Cost Ratio Analysis (BCR) <a name="ch02_bcr"></a>
 * Compares the cost to produce to the potential benefit to the business.
 * This should include all factors of a project.
 * Also known as a **cost benefit analysis**.
 
-### Scoring Models
+### Scoring Models <a name="ch02_scoring-models"></a>
 * Used when the steering committee determines common criteria to compare different projects.
 * Multiple, common projects will all use the same criteria.
 
-### Cash Flow Analysis
+### Cash Flow Analysis <a name="ch02_cash-flow-analysis"></a>
 * Includes formulas such as:
     * Payback period (PBP)
     * Discount cash flow
     * Net present value (NPV)
     * Intentional rate of return (IRR)
 
-### Payback period (PBP):
+### Payback period (PBP) <a name="ch02_pbp"></a>
 * How long it will take a company to recap the initial cost of the project.
 * Compares the **initial cost** to the **expected cash flow** over the anticipated life of the project.
 * **Example**: Initial investment of a project is **$200k** and is expected to bring in **$25k/quarter** for the first **two** years, then **50k/year** afterwards. The PBP is reached within **two years**.
 
-### Discounted cash flow:
+### Discounted cash flow <a name="ch02_discounted-cash-flow"></a>
 * The concept that future money is worth less than current money.
 * Future value:
     * Example:
@@ -227,22 +237,22 @@ Operations are different from a project since operations are ongoing and repetit
             <img style="padding-top:10px" src=./images/formula-discounted-cash-flow.svg>
         </p>
 
-### Net present values
+### Net present values <a name="ch02_npv"></a>
 * Enables the calculation of expected revenue or cash inflow from the project in **today's dollars**.
 * If NPV is **greater than 0**, accept the project.
 * If NPC is **less than 0**, reject the project.
 
-### Intentional rate of return
+### Intentional rate of return <a name="ch02_irr"></a>
 * The discount rate when the present value of the **cash inflow** equals the **original investment**.
 
-### Assessing Project Needs and Creating the Project Charter
+### Assessing Project Needs and Creating the Project Charter <a name="ch02_assessing-project-needs"></a>
 * The **project charter** is the formal start of the project.
 * It gives the project manager **authority** within the project.
 * The **project sponsor** needs to create **two** separate documents:
     * **Business case**: Documents the business value of the project and if it's worth undertaking.
     * **Benefits management plan**: Outlines the benefits that the project brings to the organization.
 
-### Business Case
+### Business Case <a name="ch02_business-case"></a>
 * It's a good idea to perform a **needs assessment** first.
 * Typically, includes:
     * Project description
@@ -284,7 +294,7 @@ Operations are different from a project since operations are ongoing and repetit
     * Industry standards
     * Product specifications
 
-### Organizational Process Assets (OPA)
+### Organizational Process Assets (OPA) <a name="ch02_opa"></a>
 * Consists of:
     * Policies
     * Guidelines

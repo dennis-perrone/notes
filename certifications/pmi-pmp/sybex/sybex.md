@@ -212,3 +212,108 @@ Operations are different from a project since operations are ongoing and repetit
 </p>
 
 ### Benefit-Cost Ratio Analysis (BCR)
+* Compares the cost to produce to the potential benefit to the business.
+* This should include all factors of a project.
+* Also known as a **cost benefit analysis**.
+
+### Scoring Models
+* Used when the steering committee determines common criteria to compare different projects.
+* Multiple, common projects will all use the same criteria.
+
+### Cash Flow Analysis
+* Includes formulas such as:
+    * Payback period (PBP)
+    * Discount cash flow
+    * Net present value (NPV)
+    * Intentional rate of return (IRR)
+
+### Payback period (PBP):
+* How long it will take a company to recap the initial cost of the project.
+* Compares the **initial cost** to the **expected cash flow** over the anticipated life of the project.
+* **Example**: Initial investment of a project is **$200k** and is expected to bring in **$25k/quarter** for the first **two** years, then **50k/year** afterwards. The PBP is reached within **two years**.
+
+### Discounted cash flow:
+* The concept that future money is worth less than current money.
+* Future value:
+    * Example:
+        * Borrow **$2k** for **three years** at **5% interest**.
+        * FV = 2000(1.05)<sup>3</sup>
+        * FV = 2000(1.157625)
+        * FV = 2,315.25
+    * Formula:
+        <p align="left">
+            <img style="padding-top:10px" src=./images/formula-future-value.svg>
+        </p>
+* Discounted cash flow:
+    * Example:
+        * What is **$2,315.25** worth in **three years**.
+        * PV = 2,315.25/(1.05)<sup>3</sup>
+        * PV = 2,315.25/1.157625
+        * PV = 2,000
+    * Formula:    
+        <p align="left">
+            <img style="padding-top:10px" src=./images/formula-discounted-cash-flow.svg>
+        </p>
+
+### Net present values
+* Enables the calculation of expected revenue or cash inflow from the project in **today's dollars**.
+* If NPV is **greater than 0**, accept the project.
+* If NPC is **less than 0**, reject the project.
+
+### Intentional rate of return
+* The discount rate when the present value of the **cash inflow** equals the **original investment**.
+
+### Assessing Project Needs and Creating the Project Charter
+* The **project charter** is the formal start of the project.
+* It gives the project manager **authority** within the project.
+* The **project sponsor** needs to create **two** separate documents:
+    * **Business case**: Documents the business value of the project and if it's worth undertaking.
+    * **Benefits management plan**: Outlines the benefits that the project brings to the organization.
+
+### Business Case
+* It's a good idea to perform a **needs assessment** first.
+* Typically, includes:
+    * Project description
+    * Business need and demand
+    - Opportunity
+    * High-level scope
+    * Involved stakeholders
+    * Problem analysis
+    * High-level description of risks
+* **Three** categories are used for **decision analysis**:
+    * Required
+    * Desired
+    * Optional
+* The **three decision analysis** categories are used to categorize the criticality of a factor to the success of a project.
+* There will be **one** of **two** outcomes:
+    * Proceed with the project charter
+    * Deny the request
+
+### Benefits Management Plan
+* Outlines the intended benefits and business value.
+* Defines how benefits will be measured.
+* Can include:
+    * Target benefits
+    * Strategic alignment
+    *Timeframe
+    * Who will track when the benefits are realized
+    * Metrics
+    * Risks associated with benefits
+* This should be reviewed at each **phase gate**.
+
+### Enterprise Environmental Factors (EEF)
+* These can be **internal** and **external** to the organization.
+* Internal factors:
+    * Resource availability
+    * Office location
+    * Company culture
+* External factors:
+    * Government standards
+    * Industry standards
+    * Product specifications
+
+### Organizational Process Assets (OPA)
+* Organizational policies, guidelines, procedures, and plans.
+* There are **two** categories for OPA's:
+    * Processes, policies, and procedures
+    * Organizational knowledge bases

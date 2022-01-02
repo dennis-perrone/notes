@@ -1,15 +1,19 @@
 # Sybex PMP Study Guide Notes
 
 ## Table of Contents
-1. [Chapter 01](#building-the-foundation)
-    1. [Establishing a Baseline](#ch-01_establishing-a-baseline)
-    2. [Programs](#programs)
-2. [Chapter 02](#ch02)
+1. [Chapter 01](#ch01_building-the-foundation)
+    1. [Establishing a Baseline](#ch01_establishing-a-baseline)
+    1. [Programs](#ch01_programs)
+2. [Chapter 02](#ch02_assessing-project-needs)
+    1. [Exploring the Project Knowledge Areas](#ch02_exploring-the-project-knowledge-areas)
+    1. [Project Integration Management](#ch02_proj-integration-mgmt) 
+    2. [Benefits Management Plan](#ch02_benefits-management-plan)
+    3. [Enterprise Environmental Factors](#ch02_enterprise-environmental-factors)
 
-<a name="ch_01-building-the-foundation"></a>
+<a name="ch01_building-the-foundation"></a>
 ## Chapter 01: Building the Foundation
 
-<a name="ch-01_establishing-a-baseline"></a>
+<a name="ch01_establishing-a-baseline"></a>
 
 ### Establishing a baseline
 Definition of a project:
@@ -20,6 +24,7 @@ Definition of a project:
 
 Operations are different from a project since operations are ongoing and repetitive in nature.
 
+<a name="ch01_programs"></a>
 ### Programs
 
 * **Programs** are a group of related projects, subsidiary programs, and other activities.
@@ -35,10 +40,10 @@ Operations are different from a project since operations are ongoing and repetit
 * Kanban and Scrum are both **pull** systems.
 
 
-## Chapter 02: Assessing Project Needs <a name="ch02"></a>
-<a name="paragraph1"></a>
+## Chapter 02: Assessing Project Needs <a name="ch02_assessing-project-needs"></a>
 
-### Exploring the Project Knowledge Areas
+
+### Exploring the Project Knowledge Areas <a name="ch02_exploring-the-project-knowledge-areas"></a>
 
 **Process Groups**
 * There are **five** total groups:
@@ -61,40 +66,7 @@ Operations are different from a project since operations are ongoing and repetit
     * Procurement management
     * Stakeholder management
 
-### Benefits Management Plan
-* Outlines the *intended benefits* and the *business value*.
-* Defines how benefits will be measured.
-* Can include:
-    * Target benefits
-    * Strategic alignment
-    * Timeframe
-    * Who will track when the benefits are realized
-    * Metrics
-    * Risks associated with the benefits.
-* This plan will be reviewed at each **phase gate**.
-
-### Enterprise Environmental Factors (EEF)
-* Can be both *internal* and *external* to the organization.
-* Internal:
-    * Resource availability
-    * Office location
-    * Company culture
-* External:
-    * Government and Industry standards
-    * Product specifications
-
-### Organizational Process Assets (OPA's)
-* Consists of:
-    * Policies
-    * Guidelines
-    * Processes
-    * Procedures
-    * Plans
-* There are **two** categories:
-    * Process, policies, and procedures
-    * Organizational knowledge bases
-
-### Project Integration Management
+### Project Integration Management <a name="ch02_proj-integration-mgmt"></a>
 * There are **three** levels of project integration.
     * Process level
     * Cognitive level
@@ -105,7 +77,7 @@ Operations are different from a project since operations are ongoing and repetit
     * Can be used to control project plans.
     * Collection and distribution point for project information.
 
-### Project Scope Management
+### Project Scope Management <a name="ch02_proj-scope-mgmt"></a>
 * Knowledge areas (Contains **six processes**):
     * Plan scope management (Planning)
     * Collect requirements (Planning)
@@ -289,7 +261,7 @@ Operations are different from a project since operations are ongoing and repetit
     * Proceed with the project charter
     * Deny the request
 
-### Benefits Management Plan
+### Benefits Management Plan <a name="ch02_benefits-management-plan"></a>
 * Outlines the intended benefits and business value.
 * Defines how benefits will be measured.
 * Can include:
@@ -301,7 +273,7 @@ Operations are different from a project since operations are ongoing and repetit
     * Risks associated with benefits
 * This should be reviewed at each **phase gate**.
 
-### Enterprise Environmental Factors (EEF)
+### Enterprise Environmental Factors (EEF) <a name="ch02_enterprise-environmental-factors"></a>
 * These can be **internal** and **external** to the organization.
 * Internal factors:
     * Resource availability
@@ -313,7 +285,12 @@ Operations are different from a project since operations are ongoing and repetit
     * Product specifications
 
 ### Organizational Process Assets (OPA)
-* Organizational policies, guidelines, procedures, and plans.
+* Consists of:
+    * Policies
+    * Guidelines
+    * Processes
+    * Procedures
+    * Plans
 * There are **two** categories for OPA's:
     * Processes, policies, and procedures
     * Organizational knowledge bases

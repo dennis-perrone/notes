@@ -58,6 +58,7 @@ Operations are different from a project since operations are ongoing and repetit
 ### Exploring the Project Knowledge Areas <a name="ch02_exploring-the-project-knowledge-areas"></a>
 
 **Process Groups**
+
 * There are **five** total groups:
     * Initiating
     * Planning
@@ -66,6 +67,7 @@ Operations are different from a project since operations are ongoing and repetit
     * Closing
 
 **Knowledge Areas**
+
 * There are **ten** total knowledge areas:
     * Integration management
     * Scope management

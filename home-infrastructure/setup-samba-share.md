@@ -59,3 +59,6 @@ Configure Permissions
 3. Enter ```\\server-ip-address\samba-folder```
 4. Select **Reconnect at login**
 5. If separate username/passwords, enter that there are different credentials.
+
+## References
+[1] https://ask.fedoraproject.org/t/how-to-setup-samba-on-fedora-the-easy-way/2551

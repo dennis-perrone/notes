@@ -62,3 +62,4 @@ Configure Permissions
 
 ## References
 [1] https://ask.fedoraproject.org/t/how-to-setup-samba-on-fedora-the-easy-way/2551
+[2] https://linuxize.com/post/how-to-mount-cifs-windows-share-on-linux/
